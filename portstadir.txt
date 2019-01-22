@@ -22,4 +22,4 @@ encoder left top = port 7
 encoder left bottom = port 8
 
 
-
+LCD = l2c
