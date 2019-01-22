@@ -1,0 +1,25 @@
+MOTOR:
+right motor = port 2
+left motor = port 3
+claw motor = port 6
+arm motor = port 7
+ 
+ANALOG:
+potentiometer = port 1
+light sensor = port 2
+line tracking sensor left = port 3
+line tracking sensor middle = port 4
+line tracking sensor right = port 5
+
+DIGITAL:
+bumper switch = port 1
+limit switch = port 2
+SONAR IN = port 3
+SONAR OUT = port 4
+encoder right top = port 5
+encoder right bottom = port 6
+encoder left top = port 7
+encoder left bottom = port 8
+
+
+
